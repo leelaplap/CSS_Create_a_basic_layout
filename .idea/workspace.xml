@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ce43b7-0134-4502-999d-9c236f983841" name="Default Changelist" comment="">
+    <list default="true" id="66ce43b7-0134-4502-999d-9c236f983841" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout_basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout_basic.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573532890447</updated>
       <workItem from="1573532891617" duration="1585000" />
-      <workItem from="1573535556669" duration="7202000" />
+      <workItem from="1573535556669" duration="7286000" />
     </task>
     <task id="LOCAL-00001" summary="update border">
       <created>1573546422090</created>
@@ -64,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573546422090</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1573547302539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573547302539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update border" />
-    <option name="LAST_COMMIT_MESSAGE" value="update border" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
