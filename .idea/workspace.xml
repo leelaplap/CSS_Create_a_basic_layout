@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66ce43b7-0134-4502-999d-9c236f983841" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layout_basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout_basic.html" afterDir="false" />
@@ -56,8 +55,16 @@
       <option name="presentableId" value="Default" />
       <updated>1573532890447</updated>
       <workItem from="1573532891617" duration="1585000" />
-      <workItem from="1573535556669" duration="6364000" />
+      <workItem from="1573535556669" duration="7202000" />
     </task>
+    <task id="LOCAL-00001" summary="update border">
+      <created>1573546422090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573546422090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update border" />
+    <option name="LAST_COMMIT_MESSAGE" value="update border" />
   </component>
 </project>
